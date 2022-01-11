@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ccb932e9-36a4-44bd-bbe5-f53acd649089": {
+      "ProjectGuid": "ccb932e9-36a4-44bd-bbe5-f53acd649089",
+      "DisplayName": "solution_chapter2",
+      "ColorIndex": 0
+    },
+    "ec7bb310-bad1-4e36-9cee-55f164456621": {
+      "ProjectGuid": "ec7bb310-bad1-4e36-9cee-55f164456621",
+      "DisplayName": "use_printf",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
