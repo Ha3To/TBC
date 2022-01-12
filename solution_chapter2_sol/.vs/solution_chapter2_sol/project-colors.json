@@ -10,7 +10,22 @@
       "ProjectGuid": "ec7bb310-bad1-4e36-9cee-55f164456621",
       "DisplayName": "use_printf",
       "ColorIndex": 1
+    },
+    "bd34f832-08cf-4970-acda-006b007b0dea": {
+      "ProjectGuid": "bd34f832-08cf-4970-acda-006b007b0dea",
+      "DisplayName": "make_function",
+      "ColorIndex": 2
+    },
+    "190d4123-36a7-4cd7-8e34-67130765607f": {
+      "ProjectGuid": "190d4123-36a7-4cd7-8e34-67130765607f",
+      "DisplayName": "How_to_use_debugger",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }
