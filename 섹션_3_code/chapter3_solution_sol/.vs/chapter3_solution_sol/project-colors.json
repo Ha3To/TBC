@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4042af2b-89ff-47a3-af17-6ccaac5880e3": {
+      "ProjectGuid": "4042af2b-89ff-47a3-af17-6ccaac5880e3",
+      "DisplayName": "chapter3_solution",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c1e5bf0e-e5c7-4444-b82b-36f13dd5da1c": {
+      "ProjectGuid": "c1e5bf0e-e5c7-4444-b82b-36f13dd5da1c",
+      "DisplayName": "What_is_overflow",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
