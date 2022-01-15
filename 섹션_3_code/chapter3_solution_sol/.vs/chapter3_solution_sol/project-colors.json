@@ -15,7 +15,22 @@
       "ProjectGuid": "c1e5bf0e-e5c7-4444-b82b-36f13dd5da1c",
       "DisplayName": "What_is_overflow",
       "ColorIndex": 1
+    },
+    "c022fb8f-467a-46f3-95fb-a54e9ef7a2f6": {
+      "ProjectGuid": "c022fb8f-467a-46f3-95fb-a54e9ef7a2f6",
+      "DisplayName": "data_type",
+      "ColorIndex": 2
+    },
+    "bf269d90-a292-40d3-9a4a-2a7f003e9b7b": {
+      "ProjectGuid": "bf269d90-a292-40d3-9a4a-2a7f003e9b7b",
+      "DisplayName": "fixed_width_integers",
+      "ColorIndex": 3
+    },
+    "b278f293-c711-41c2-8737-52f874f4804a": {
+      "ProjectGuid": "b278f293-c711-41c2-8737-52f874f4804a",
+      "DisplayName": "ASCII_chart",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 5
 }
