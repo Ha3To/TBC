@@ -1,0 +1,4 @@
+﻿  bool.c
+C:\Users\lgsc0\OneDrive\바탕 화면\TBC\섹션_3_code\chapter3_solution_sol\boolean_types\bool.c(6,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+C:\Users\lgsc0\OneDrive\바탕 화면\TBC\섹션_3_code\chapter3_solution_sol\boolean_types\bool.c(6,9): message : consider using '%zu' in the format string
+  boolean_types.vcxproj -> C:\Users\lgsc0\OneDrive\바탕 화면\TBC\섹션_3_code\chapter3_solution_sol\x64\Debug\boolean_types.exe
