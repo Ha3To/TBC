@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "65e065ea-14b6-477a-83fe-8d6c19a745b9": {
+      "ProjectGuid": "65e065ea-14b6-477a-83fe-8d6c19a745b9",
+      "DisplayName": "printf_string",
+      "ColorIndex": 0
+    },
+    "e9b2704a-c703-4c74-b532-9616f9d74137": {
+      "ProjectGuid": "e9b2704a-c703-4c74-b532-9616f9d74137",
+      "DisplayName": "what_is_sizeof",
+      "ColorIndex": 1
+    },
+    "ca271659-9b4f-4f5c-b688-44d9c8c8466c": {
+      "ProjectGuid": "ca271659-9b4f-4f5c-b688-44d9c8c8466c",
+      "DisplayName": "string_array",
+      "ColorIndex": 2
+    },
+    "2bbb24c2-f793-477c-9391-026acd9d85fa": {
+      "ProjectGuid": "2bbb24c2-f793-477c-9391-026acd9d85fa",
+      "DisplayName": "def_strlen",
+      "ColorIndex": 3
+    },
+    "c6fbc702-0f22-4a26-ae78-83543c5653c7": {
+      "ProjectGuid": "c6fbc702-0f22-4a26-ae78-83543c5653c7",
+      "DisplayName": "How_to_use_symbolic_constants_and_preprocessor",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
