@@ -1,0 +1,7 @@
+﻿  Mod.c
+C:\Users\lgsc0\OneDrive\바탕 화면\TBC\섹션_4_code\chapter4_solution_sol\Modifiers\Mod.c(29,35): warning C4307: '+': signed integral constant overflow
+C:\Users\lgsc0\OneDrive\바탕 화면\TBC\섹션_4_code\chapter4_solution_sol\Modifiers\Mod.c(29,48): warning C4307: '+': signed integral constant overflow
+C:\Users\lgsc0\OneDrive\바탕 화면\TBC\섹션_4_code\chapter4_solution_sol\Modifiers\Mod.c(29,9): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 2 has type 'int'
+C:\Users\lgsc0\OneDrive\바탕 화면\TBC\섹션_4_code\chapter4_solution_sol\Modifiers\Mod.c(29,9): message : consider using '%d' in the format string
+C:\Users\lgsc0\OneDrive\바탕 화면\TBC\섹션_4_code\chapter4_solution_sol\Modifiers\Mod.c(29,9): message : consider using '%I32d' in the format string
+  Modifiers.vcxproj -> C:\Users\lgsc0\OneDrive\바탕 화면\TBC\섹션_4_code\chapter4_solution_sol\x64\Debug\Modifiers.exe

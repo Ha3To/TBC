@@ -25,7 +25,17 @@
       "ProjectGuid": "c6fbc702-0f22-4a26-ae78-83543c5653c7",
       "DisplayName": "How_to_use_symbolic_constants_and_preprocessor",
       "ColorIndex": 4
+    },
+    "bf374c29-9996-4594-9c23-11a85d29b981": {
+      "ProjectGuid": "bf374c29-9996-4594-9c23-11a85d29b981",
+      "DisplayName": "Conversion_Specifiers",
+      "ColorIndex": 5
+    },
+    "8303ffb4-6ae8-4d43-b3a1-19b74494ba2d": {
+      "ProjectGuid": "8303ffb4-6ae8-4d43-b3a1-19b74494ba2d",
+      "DisplayName": "Modifiers",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 7
 }
