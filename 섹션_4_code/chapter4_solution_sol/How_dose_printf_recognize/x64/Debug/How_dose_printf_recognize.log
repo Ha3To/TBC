@@ -1,0 +1,9 @@
+﻿  printf_recognize.c
+C:\Users\lgsc0\OneDrive\바탕 화면\TBC\섹션_4_code\chapter4_solution_sol\How_dose_printf_recognize\printf_recognize.c(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\lgsc0\OneDrive\바탕 화면\TBC\섹션_4_code\chapter4_solution_sol\How_dose_printf_recognize\printf_recognize.c(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+C:\Users\lgsc0\OneDrive\바탕 화면\TBC\섹션_4_code\chapter4_solution_sol\How_dose_printf_recognize\printf_recognize.c(13,9): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 1 has type 'double'
+C:\Users\lgsc0\OneDrive\바탕 화면\TBC\섹션_4_code\chapter4_solution_sol\How_dose_printf_recognize\printf_recognize.c(13,9): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 2 has type 'double'
+C:\Users\lgsc0\OneDrive\바탕 화면\TBC\섹션_4_code\chapter4_solution_sol\How_dose_printf_recognize\printf_recognize.c(14,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+C:\Users\lgsc0\OneDrive\바탕 화면\TBC\섹션_4_code\chapter4_solution_sol\How_dose_printf_recognize\printf_recognize.c(15,9): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 2 has type 'double'
+C:\Users\lgsc0\OneDrive\바탕 화면\TBC\섹션_4_code\chapter4_solution_sol\How_dose_printf_recognize\printf_recognize.c(5,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  How_dose_printf_recognize.vcxproj -> C:\Users\lgsc0\OneDrive\바탕 화면\TBC\섹션_4_code\chapter4_solution_sol\x64\Debug\How_dose_printf_recognize.exe

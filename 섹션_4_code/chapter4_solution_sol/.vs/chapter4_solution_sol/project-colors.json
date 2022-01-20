@@ -35,7 +35,17 @@
       "ProjectGuid": "8303ffb4-6ae8-4d43-b3a1-19b74494ba2d",
       "DisplayName": "Modifiers",
       "ColorIndex": 6
+    },
+    "78245e26-d6f5-4679-90c1-2bfbc059c64f": {
+      "ProjectGuid": "78245e26-d6f5-4679-90c1-2bfbc059c64f",
+      "DisplayName": "How_dose_printf_recognize",
+      "ColorIndex": 7
+    },
+    "556c5ca5-034d-4dd8-94a5-d0e4e10ce769": {
+      "ProjectGuid": "556c5ca5-034d-4dd8-94a5-d0e4e10ce769",
+      "DisplayName": "How_to_use_scanf",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 9
 }
