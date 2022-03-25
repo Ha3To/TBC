@@ -1,8 +1,8 @@
 //
 //  main.c
-//  Recursion
+//  Recursion_Stack
 //
-//  Created by 임태호 on 2022/03/23.
+//  Created by 임태호 on 2022/03/25.
 //
 
 #include <stdio.h>
