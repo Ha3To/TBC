@@ -19,10 +19,10 @@ int main()
 
 void my_func(int n)
 {
-    printf("Level %d, address of variable n = %p\n", n, &n);
+    printf("Level %d, address of variable n = %d\n", n, (int)&n);// ptr -> int casting
     
-    if(n <= 4)
+    if(n < 4)
         my_func(n + 1);
     
-    printf("Level %d, address of variable n = %p\n", n, &n);
+    printf("Level %d, address of variable n = %d\n", n, (int)&n);// ptr -> int casting
 }
